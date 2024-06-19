@@ -1,6 +1,6 @@
-import './blog.css'
+import './footer.css'
 
-const Blog = () => {
+const Footer = () => {
     return(
         <div>
             Blog
@@ -8,4 +8,4 @@ const Blog = () => {
     )
 }
 
-export default Blog;
+export default Footer;
